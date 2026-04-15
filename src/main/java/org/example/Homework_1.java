@@ -1,7 +1,7 @@
 package org.example;
 
 public class Homework_1 {
-    static void main() {
+    public static void main(String[] args) {
         String name = "Иван";
         String jobTitle = "Кассир-шаурмист";
         int ratePerShift = 1000;
