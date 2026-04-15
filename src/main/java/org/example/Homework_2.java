@@ -16,6 +16,7 @@ public class Homework_2 {
         boolean isAllowed = isAdult && hasInviteMoney && isClean;
 
         System.out.println(isAllowed);
+
         double contribution = randomMoneyVisitor * 0.075;
         System.out.printf("Добровольный взнос: %.2f%n", contribution);
     }
